@@ -9,9 +9,9 @@ The project is designed around a modular architecture, allowing support for diff
 | Package | Where |
 | --- | --- |
 | Unity package (`.unitypackage`) | [Unity/Unitypackages](Unity/Unitypackages) |
-| Android app (`.apk`) | [APKs](APKs) |
+| Android app (`.apk`) | [Android/APKs](Android/APKs) |
 
-The main Android app will be distributed through Google Play. The APKs folder holds builds that cannot be published there, such as versions for older Android releases.
+The main Android app will be distributed through Google Play. The Android/APKs folder holds builds that cannot be published there, such as versions for older Android releases.
 
 Files will appear in these folders as they are released.
 
